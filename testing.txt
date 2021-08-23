@@ -1,1 +1,2 @@
 practically test is done by git 
+jenkins through git configred
